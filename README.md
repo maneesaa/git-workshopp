@@ -6,3 +6,5 @@
     -   credential Add
     -   Stage the Changes
     -   Commit the changes
+    -   Add-manisa
+    -   switch branch
