@@ -5,4 +5,4 @@
     -   git setup
     -   credential Add
     -   Stage the Changes
-    -   Commit the changes
+    -   Git branch add
